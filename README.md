@@ -7,5 +7,5 @@ dm me on Discord.
 kyotoweb add for help :D
 
 this project for better leaks :)
-<img src="[https://avatars.githubusercontent.com/u/90572594?v=4](https://cdn.discordapp.com/attachments/1179139537956515851/1181292077338853486/Capture.PNG?ex=658086fa&is=656e11fa&hm=9a1ae9201763f81bfef01baf68b9aba3a216fa1764c188831f6fbf4a76acd6a0&)https://cdn.discordapp.com/attachments/1179139537956515851/1181292077338853486/Capture.PNG?ex=658086fa&is=656e11fa&hm=9a1ae9201763f81bfef01baf68b9aba3a216fa1764c188831f6fbf4a76acd6a0&" alt="" size="312" height="32" width="32" data-view-component="true" class="avatar circle">
+<img src="[https://avatars.githubusercontent.com/u/90572594?v=4](https://cdn.discordapp.com/attachments/1179139537956515851/1181292077338853486/Capture.PNG?ex=658086fa&is=656e11fa&hm=9a1ae9201763f81bfef01baf68b9aba3a216fa1764c188831f6fbf4a76acd6a0&)https://cdn.discordapp.com/attachments/1179139537956515851/1181292077338853486/Capture.PNG?ex=658086fa&is=656e11fa&hm=9a1ae9201763f81bfef01baf68b9aba3a216fa1764c188831f6fbf4a76acd6a0&" alt="" size="312" height="102" width="102" data-view-component="true" class="avatar circle">
 by 0x1337
